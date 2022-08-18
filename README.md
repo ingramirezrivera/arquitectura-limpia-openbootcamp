@@ -1,2 +1,2 @@
-# arquitercuta-limpia-openbootcamp
+# arquitectura-limpia-openbootcamp
 Arquitectura Limpia Openbootacmp
